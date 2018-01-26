@@ -5,9 +5,9 @@ Command line client for Airly API.
 
 
 Use it with arguments *(order is required)*:
-  > --longtitude 19.93 --latitude 50.06 
-  > --longtitude 19.93 --latitude 50.06 --history 
-  > --sensorID 204 
-  > --sensorID 204 --history
+  > --longtitude 19.93 --latitude 50.06 <br /> 
+  > --longtitude 19.93 --latitude 50.06 --history <br /> 
+  > --sensorID 204 <br />
+  > --sensorID 204 --history <br />
 
 Projects uses [Gson](https://github.com/google/gson) to convert JSON  to java objects and back.
