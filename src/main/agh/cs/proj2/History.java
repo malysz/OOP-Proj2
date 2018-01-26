@@ -3,9 +3,9 @@ package agh.cs.proj2;
 public class History {
     private String fromDateTime;
     private String tillDateTime;
-    private CurrentMeasurements measurements;
+    private Measurements measurements;
 
-    public Object getMeasurements(){
+    public Measurements getMeasurements(){
         return measurements;
     }
 
