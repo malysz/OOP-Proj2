@@ -10,4 +10,4 @@ Use it with arguments *(order is required)*:
   > --sensorID 204 <br />
   > --sensorID 204 --history <br />
 
-Projects uses [Gson](https://github.com/google/gson) to convert JSON  to java objects and back.
+Project uses [Gson](https://github.com/google/gson) to convert JSON  to java objects and back.
