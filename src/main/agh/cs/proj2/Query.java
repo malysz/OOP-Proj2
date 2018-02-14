@@ -61,7 +61,6 @@ public class Query {
                         .concat("&history");
         }
         else{ //option=2
-            //https://airapi.airly.eu/v1/sensor/measurements?sensorId=1&apikey=cc2f9c214494487d92fe3818a399adfb
             if(history==false)
                 url = baseUrl.concat("sensor/measurements?sensorId=").concat(sensorID)
                         .concat("&apikey=").concat(apikey);
